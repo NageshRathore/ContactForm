@@ -22,6 +22,9 @@
             <label for="phone">Phone:</label>
             <input type="number" id="phone" name="phone" placeholder="Your Contact Number" required>
 
+            <label for="locality">Locality:</label>
+            <input type="text" id="locality" name="locality" >
+
             
             <fieldset>
                 <legend>Rate Your Stay Experience</legend>
